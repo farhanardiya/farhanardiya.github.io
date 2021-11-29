@@ -1,0 +1,5 @@
+Bukan buat tiket.com
+tiket={
+  username: bukantiket,
+  token:TIKET{Bukan_CTF}
+  }
